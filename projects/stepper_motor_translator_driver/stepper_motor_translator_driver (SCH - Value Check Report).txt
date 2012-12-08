@@ -1,0 +1,20 @@
+Value Check Report
+------------------
+
+Report File    : C:\Users\Bart\Desktop\mgr\projects\stepper_motor_translator_driver\stepper_motor_translator_driver (SCH - Value Check Report).txt
+Report Written : Tuesday, November 27, 2012
+Design Path    : C:\Users\Bart\Desktop\mgr\projects\stepper_motor_translator_driver\stepper_motor_translator_driver.sch
+Design Title   : stepper_motor_translator_driver
+Created        : 
+Last Saved     : 2012-11-27 00:53:09
+Editing Time   : 1285 min
+Units          : mm (precision 1)
+
+
+Errors Found
+============
+
+Capacitor C1 value not found
+Capacitor C2 value not found
+
+End Of Report.

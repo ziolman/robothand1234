@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report File    : C:\Users\Bart\Desktop\mgr\projects\A3977_stepper_driver\A3977_stepper_driver (PCB - Pour Copper Report).txt
+Report Written : Saturday, September 29, 2012
+Design Path    : C:\Users\Bart\Desktop\mgr\projects\A3977_stepper_driver\A3977_stepper_driver.pcb
+Design Title   : 
+Created        : 2012-09-21 16:53:49
+Last Saved     : 2012-09-29 13:23:34
+Editing Time   : 1885 min
+Units          : mm (precision 0)
+
+
+End Of Report.

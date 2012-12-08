@@ -1,0 +1,68 @@
+Design Rule Check Report
+------------------------
+
+Report File    : C:\Users\Bart\Desktop\mgr\projects\stepper_motor_translator_driver\~stepper_motor_translator_driver (PCB - Design Rule Check Report).txt
+Report Written : Friday, November 30, 2012
+Design Path    : C:\Users\Bart\Desktop\mgr\projects\stepper_motor_translator_driver\~stepper_motor_translator_driver.pcb
+Design Title   : 
+Created        : 2012-11-28 19:48:20
+Last Saved     : 2012-11-30 00:24:26
+Editing Time   : 1708 min
+Units          : mil (precision 1)
+
+
+Results
+=======
+
+Gap in Net "GND" between (10501.6,8875.0) and (10599.4,8922.5) 
+    GND.
+Gap in Net "GND" between (10599.4,8922.5) and (10964.7,8502.5) 
+    GND.
+
+Number of errors found : 2
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks         Yes
+Pads and Vias  Yes
+Shapes         Yes
+Text           Yes
+Board          Yes
+Drills         Yes
+Components     Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                   No
+Drill Backoff                    No
+Silkscreen Overlap               No
+Copper Text In Board             No
+Min Track Width                  No
+Min Annular Ring                 No
+Min Paste Size                   No
+Vias In Pads                     No
+Unplated Vias                    No
+Unplated Pads With Inner Tracks  No
+
+
+Nets
+
+=====
+
+Net Completion                Yes
+Dangling Tracks               Yes
+Net Track Length Differences  No
+
+
+
+End Of Report.

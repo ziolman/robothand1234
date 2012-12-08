@@ -1,0 +1,64 @@
+Design Rule Check Report
+------------------------
+
+Report File    : C:\Users\Bart\Desktop\mgr\projects\stepper_motor_translator_driver\stepper_motor_translator_driver (PCB - Design Rule Check Report).txt
+Report Written : Friday, November 30, 2012
+Design Path    : C:\Users\Bart\Desktop\mgr\projects\stepper_motor_translator_driver\stepper_motor_translator_driver.pcb
+Design Title   : 
+Created        : 2012-11-28 19:48:20
+Last Saved     : 2012-11-30 09:25:43
+Editing Time   : 2156 min
+Units          : mm (precision 1)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks         Yes
+Pads and Vias  Yes
+Shapes         Yes
+Text           Yes
+Board          Yes
+Drills         Yes
+Components     Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                   Yes
+Drill Backoff                    No
+Silkscreen Overlap               No
+Copper Text In Board             Yes
+Min Track Width                  Yes
+Min Annular Ring                 No
+Min Paste Size                   Yes
+Vias In Pads                     Yes
+Unplated Vias                    Yes
+Unplated Pads With Inner Tracks  Yes
+
+
+Nets
+
+=====
+
+Net Completion                Yes
+Dangling Tracks               Yes
+Net Track Length Differences  No
+
+
+
+End Of Report.

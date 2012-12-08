@@ -1,0 +1,26 @@
+Forward Design Changes Report
+-----------------------------
+
+Report File    : C:\Users\Bart\Desktop\mgr\projects\A3977_stepper_driver\A3977_stepper_driver (PCB - Forward Design Changes Report).txt
+Report Written : Saturday, September 29, 2012
+Design Path    : C:\Users\Bart\Desktop\mgr\projects\A3977_stepper_driver\A3977_stepper_driver.pcb
+Design Title   : 
+Created        : 2012-09-21 16:53:49
+Last Saved     : 2012-09-29 13:08:09
+Editing Time   : 1871 min
+Units          : mm (precision 0)
+
+Ignoring instance H1 ("MOUNT-HOLE2.8") as it has no schematic information.
+Ignoring instance H2 ("MOUNT-HOLE2.8") as it has no schematic information.
+Ignoring instance H3 ("MOUNT-HOLE2.8") as it has no schematic information.
+Ignoring instance H4 ("MOUNT-HOLE2.8") as it has no schematic information.
+
+Deleted net class "Ground".
+
+Connected pin "R3.2" to net "GND".
+Connected pin "C11.2" to net "GND".
+
+Net "GND" changed from net class "Ground" to net class "Signal".
+
+
+End Of Report.

@@ -1,0 +1,23 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report File    : C:\Users\Bart\Desktop\mgr\projects\stepper_motor_translator_driver\stepper_motor_translator_driver (PCB - Schematic and PCB Check Report).txt
+Report Written : Friday, November 30, 2012
+Design Path    : C:\Users\Bart\Desktop\mgr\projects\stepper_motor_translator_driver\stepper_motor_translator_driver.pcb
+Design Title   : 
+Created        : 2012-11-28 19:48:20
+Last Saved     : 2012-11-30 09:25:43
+Editing Time   : 2153 min
+Units          : mm (precision 1)
+
+
+Checking integrity of Schematic "C:\Users\Bart\Desktop\mgr\projects\stepper_motor_translator_driver\stepper_motor_translator_driver.sch" with PCB "C:\Users\Bart\Desktop\mgr\projects\stepper_motor_translator_driver\stepper_motor_translator_driver.pcb"
+==========================================================================================================================================================================================================================================================
+
+Ignoring instance H1 ("MOUNT-HOLE3.0") as it has no schematic information.
+Ignoring instance H2 ("MOUNT-HOLE3.0") as it has no schematic information.
+Ignoring instance H3 ("MOUNT-HOLE3.0") as it has no schematic information.
+Ignoring instance H4 ("MOUNT-HOLE3.0") as it has no schematic information.
+
+
+End Of Report.

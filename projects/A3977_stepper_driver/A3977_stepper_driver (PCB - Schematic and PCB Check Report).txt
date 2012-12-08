@@ -1,0 +1,28 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report File    : C:\Users\Bart\Desktop\mgr\projects\A3977_stepper_driver\A3977_stepper_driver (PCB - Schematic and PCB Check Report).txt
+Report Written : Saturday, September 29, 2012
+Design Path    : C:\Users\Bart\Desktop\mgr\projects\A3977_stepper_driver\A3977_stepper_driver.pcb
+Design Title   : 
+Created        : 2012-09-21 16:53:49
+Last Saved     : 2012-09-29 13:08:09
+Editing Time   : 1871 min
+Units          : mm (precision 0)
+
+Checking integrity of Schematic "C:\Users\Bart\Desktop\mgr\projects\A3977_stepper_driver\A3977_stepper_driver.sch" with PCB "C:\Users\Bart\Desktop\mgr\projects\A3977_stepper_driver\A3977_stepper_driver.pcb".
+
+Ignoring instance H1 ("MOUNT-HOLE2.8") as it has no schematic information.
+Ignoring instance H2 ("MOUNT-HOLE2.8") as it has no schematic information.
+Ignoring instance H3 ("MOUNT-HOLE2.8") as it has no schematic information.
+Ignoring instance H4 ("MOUNT-HOLE2.8") as it has no schematic information.
+
+Delete net class "Ground".
+
+Connect Pin R3-2 to Net "GND"
+Connect Pin C11-2 to Net "GND"
+
+Net "GND" uses net class "Signal" in the schematic and net class "Ground" in the PCB.
+
+
+End Of Report.

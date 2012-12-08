@@ -1,0 +1,49 @@
+Design Rule Check Report
+------------------------
+
+Report File    : C:\Users\Bart\Desktop\mgr\projects\A3977_stepper_driver\A3977_stepper_driver (PCB - Design Rule Check Report).txt
+Report Written : Saturday, September 29, 2012
+Design Path    : C:\Users\Bart\Desktop\mgr\projects\A3977_stepper_driver\A3977_stepper_driver.pcb
+Design Title   : 
+Created        : 2012-09-21 16:53:49
+Last Saved     : 2012-09-29 13:23:34
+Editing Time   : 1884 min
+Units          : mm (precision 0)
+
+Results
+-------
+
+
+No errors found
+
+Settings
+--------
+
+Spacings
+    Tracks                             Yes
+    Pads and Vias                      Yes
+    Shapes                             Yes
+    Text                               Yes
+    Board                              Yes
+    Drills                             Yes
+    Components                         Yes
+
+Manufacturing
+    Drill Breakout                     No
+    Drill Backoff                      No
+    Silkscreen Overlap                 No
+    Copper Text In Board               No
+    Min Track Width                    No
+    Min Annular Ring                   No
+    Min Paste Size                     No
+    Vias In Pads                       No
+    Unplated Vias                      No
+    Unplated Pads With Inner Tracks    No
+
+Nets
+    Net Completion                     Yes
+    Dangling Tracks                    Yes
+    Net Track Length Differences       No
+
+
+End Of Report.

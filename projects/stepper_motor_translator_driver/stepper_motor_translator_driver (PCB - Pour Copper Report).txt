@@ -1,0 +1,16 @@
+Pour Copper Report
+------------------
+
+Report File    : C:\Users\Bart\Desktop\mgr\projects\stepper_motor_translator_driver\stepper_motor_translator_driver (PCB - Pour Copper Report).txt
+Report Written : Friday, November 30, 2012
+Design Path    : C:\Users\Bart\Desktop\mgr\projects\stepper_motor_translator_driver\stepper_motor_translator_driver.pcb
+Design Title   : 
+Created        : 2012-11-28 19:48:20
+Last Saved     : 2012-11-30 00:55:28
+Editing Time   : 1700 min
+Units          : mil (precision 1)
+
+10698.4,8775.0 has no thermal spokes
+10501.6,8875.0 has no thermal spokes
+
+End Of Report.

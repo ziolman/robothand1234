@@ -1,0 +1,26 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report File    : C:\Biblioteki\Robothand\robothand1234\projects\fan controller\fan_controller (PCB - Schematic and PCB Check Report).txt
+Report Written : Friday, December 14, 2012
+Design Path    : C:\Biblioteki\Robothand\robothand1234\projects\fan controller\fan_controller.pcb
+Design Title   : 
+Created        : 2012-12-14 09:00:22
+Last Saved     : 2012-12-14 11:30:15
+Editing Time   : 144 min
+Units          : mil (precision 0)
+
+
+Checking integrity of Schematic "C:\Biblioteki\Robothand\robothand1234\projects\fan controller\fan_controller.sch" with PCB "C:\Biblioteki\Robothand\robothand1234\projects\fan controller\fan_controller.pcb"
+==============================================================================================================================================================================================================
+
+Ignoring instance H1 ("MOUNT-HOLE3.0") as it has no schematic information.
+Ignoring instance H2 ("MOUNT-HOLE3.0") as it has no schematic information.
+Ignoring instance H3 ("MOUNT-HOLE3.0") as it has no schematic information.
+Ignoring instance H4 ("MOUNT-HOLE3.0") as it has no schematic information.
+
+Net "+12V" uses net class "Power" in the schematic and net class "Signal" in the PCB.
+Net "GND" uses net class "Ground" in the schematic and net class "Signal" in the PCB.
+
+
+End Of Report.

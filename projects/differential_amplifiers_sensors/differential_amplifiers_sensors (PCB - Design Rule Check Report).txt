@@ -1,0 +1,65 @@
+Design Rule Check Report
+------------------------
+
+Report File    : C:\Biblioteki\Robothand\robothand1234\projects\differential_amplifiers_sensors\differential_amplifiers_sensors (PCB - Design Rule Check Report).txt
+Report Written : Tuesday, December 11, 2012
+Project Path   : C:\Biblioteki\Robothand\robothand1234\projects\differential_amplifiers_sensors\differential_amplifiers_sensors.prj
+Design Path    : C:\Biblioteki\Robothand\robothand1234\projects\differential_amplifiers_sensors\differential_amplifiers_sensors.pcb
+Design Title   : 
+Created        : 2012-12-11 06:53:57
+Last Saved     : 2012-12-11 20:13:52
+Editing Time   : 794 min
+Units          : mil (precision 1)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks         Yes
+Pads and Vias  Yes
+Shapes         Yes
+Text           Yes
+Board          Yes
+Drills         Yes
+Components     Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                   No
+Drill Backoff                    No
+Silkscreen Overlap               No
+Copper Text In Board             No
+Min Track Width                  No
+Min Annular Ring                 No
+Min Paste Size                   No
+Vias In Pads                     No
+Unplated Vias                    No
+Unplated Pads With Inner Tracks  No
+
+
+Nets
+
+=====
+
+Net Completion                No
+Dangling Tracks               No
+Net Track Length Differences  No
+
+
+
+End Of Report.

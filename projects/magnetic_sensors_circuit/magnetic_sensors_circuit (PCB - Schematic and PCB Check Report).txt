@@ -1,0 +1,22 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report File    : C:\Biblioteki\Robothand\robothand1234\projects\magnetic_sensors_circuit\magnetic_sensors_circuit (PCB - Schematic and PCB Check Report).txt
+Report Written : Friday, December 14, 2012
+Project Path   : C:\Biblioteki\Robothand\robothand1234\projects\magnetic_sensors_circuit\magnetic_sensors_circuit.prj
+Design Path    : C:\Biblioteki\Robothand\robothand1234\projects\magnetic_sensors_circuit\magnetic_sensors_circuit.pcb
+Design Title   : 
+Created        : 2012-12-14 14:24:42
+Last Saved     : 2012-12-14 18:47:26
+Editing Time   : 263 min
+Units          : mil (precision 0)
+
+
+Checking integrity of Schematic "C:\Biblioteki\Robothand\robothand1234\projects\magnetic_sensors_circuit\magnetic_sensors_circuit.sch" with PCB "C:\Biblioteki\Robothand\robothand1234\projects\magnetic_sensors_circuit\magnetic_sensors_circuit.pcb"
+======================================================================================================================================================================================================================================================
+
+Ignoring instance H2 ("MOUNT-HOLE2.8") as it has no schematic information.
+Ignoring instance H3 ("MOUNT-HOLE2.8") as it has no schematic information.
+
+
+End Of Report.

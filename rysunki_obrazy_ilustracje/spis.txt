@@ -2,6 +2,9 @@
 http://commons.wikimedia.org/wiki/File:Robonaut's_hand.jpg
 http://www.wired.com/gadgetlab/2008/09/robotic-hands-h/
 
+zarys rêki:
+http://www.sciencedirect.com/science/article/pii/S0165027096021681
+
 
 
 
@@ -9,3 +12,12 @@ Magnetyczny miernik po³o¿enia
 (Magnetic meter of location)
 
 MagMier24@KOSE’11
+
+
+
+http://www.google.pl/imgres?start=313&um=1&hl=pl&tbo=d&rlz=1C1GGGE_plPL370PL370&biw=1280&bih=939&tbm=isch&tbnid=tiUquc5o9_qkDM:&imgrefurl=http://www.sciencedirect.com/science/article/pii/S0360835209001739&docid=FOAOT_3MXP26nM&imgurl=http://ars.els-cdn.com/content/image/1-s2.0-S0360835209001739-gr7.jpg&w=423&h=429&ei=OFrEUPfkHoTKhAeax4DICQ&zoom=1&iact=hc&vpx=356&vpy=447&dur=2665&hovh=226&hovw=223&tx=137&ty=101&sig=102540838350991874717&page=8&tbnh=145&tbnw=143&ndsp=46&ved=1t:429,r:16,s:300,i:52
+
+http://www.google.pl/imgres?start=436&hl=pl&sa=X&tbo=d&rlz=1C1GGGE_plPL370PL370&biw=1280&bih=939&tbm=isch&tbnid=jBj68tsMwopubM:&imgrefurl=http://www.sciencedirect.com/science/article/pii/S0165027096021681&docid=zrPxhgkrg5y0gM&imgurl=http://ars.els-cdn.com/content/image/1-s2.0-S0165027096021681-gr1.gif&w=270&h=443&ei=O1zEUNmxGoKnhAeatoHQCw&zoom=1&iact=hc&vpx=357&vpy=501&dur=4785&hovh=288&hovw=175&tx=81&ty=169&sig=102540838350991874717&page=11&tbnh=149&tbnw=91&ndsp=47&ved=1t:429,r:56,s:400,i:172
+
+
+

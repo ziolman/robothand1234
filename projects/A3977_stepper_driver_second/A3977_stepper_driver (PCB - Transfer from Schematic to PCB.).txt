@@ -1,0 +1,15 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report File    : C:\Users\Bart\Desktop\mgr\projects\A3977_stepper_driver\A3977_stepper_driver (PCB - Transfer from Schematic to PCB.).txt
+Report Written : Friday, September 21, 2012
+Design Path    : C:\Users\Bart\Desktop\mgr\projects\A3977_stepper_driver\A3977_stepper_driver.pcb
+Design Title   : 
+Created        : 2012-09-21 16:53:49
+Last Saved     : 2012-09-21 16:54:20
+Editing Time   : 0 min
+Units          : mm (precision 2)
+
+Net class "Power " was not defined, but has been created. Please check the values in the PCB design.
+
+End Of Report.

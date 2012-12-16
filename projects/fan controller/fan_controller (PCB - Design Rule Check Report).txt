@@ -1,0 +1,64 @@
+Design Rule Check Report
+------------------------
+
+Report File    : C:\Biblioteki\Robothand\robothand1234\projects\fan controller\fan_controller (PCB - Design Rule Check Report).txt
+Report Written : Friday, December 14, 2012
+Design Path    : C:\Biblioteki\Robothand\robothand1234\projects\fan controller\fan_controller.pcb
+Design Title   : 
+Created        : 2012-12-14 09:00:22
+Last Saved     : 2012-12-14 12:18:20
+Editing Time   : 191 min
+Units          : mil (precision 0)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks         Yes
+Pads and Vias  Yes
+Shapes         Yes
+Text           Yes
+Board          Yes
+Drills         Yes
+Components     Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                   No
+Drill Backoff                    No
+Silkscreen Overlap               No
+Copper Text In Board             No
+Min Track Width                  No
+Min Annular Ring                 No
+Min Paste Size                   No
+Vias In Pads                     No
+Unplated Vias                    No
+Unplated Pads With Inner Tracks  No
+
+
+Nets
+
+=====
+
+Net Completion                Yes
+Dangling Tracks               Yes
+Net Track Length Differences  No
+
+
+
+End Of Report.

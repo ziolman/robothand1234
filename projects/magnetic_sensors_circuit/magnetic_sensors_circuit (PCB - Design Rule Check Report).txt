@@ -2,13 +2,13 @@ Design Rule Check Report
 ------------------------
 
 Report File    : C:\Biblioteki\Robothand\robothand1234\projects\magnetic_sensors_circuit\magnetic_sensors_circuit (PCB - Design Rule Check Report).txt
-Report Written : Friday, December 14, 2012
+Report Written : Tuesday, December 25, 2012
 Project Path   : C:\Biblioteki\Robothand\robothand1234\projects\magnetic_sensors_circuit\magnetic_sensors_circuit.prj
 Design Path    : C:\Biblioteki\Robothand\robothand1234\projects\magnetic_sensors_circuit\magnetic_sensors_circuit.pcb
 Design Title   : 
 Created        : 2012-12-14 14:24:42
-Last Saved     : 2012-12-14 18:47:26
-Editing Time   : 264 min
+Last Saved     : 2012-12-25 16:13:27
+Editing Time   : 462 min
 Units          : mil (precision 0)
 
 

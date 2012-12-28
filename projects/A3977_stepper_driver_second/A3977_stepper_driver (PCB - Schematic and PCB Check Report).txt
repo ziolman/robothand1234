@@ -2,14 +2,14 @@ Schematic and PCB Check Report
 ------------------------------
 
 Report File    : C:\Biblioteki\Robothand\robothand1234\projects\A3977_stepper_driver_second\A3977_stepper_driver (PCB - Schematic and PCB Check Report).txt
-Report Written : Tuesday, December 11, 2012
+Report Written : Monday, December 17, 2012
 Project Path   : C:\Biblioteki\Robothand\robothand1234\projects\A3977_stepper_driver_second\A3977_stepper_driver.prj
 Design Path    : C:\Biblioteki\Robothand\robothand1234\projects\A3977_stepper_driver_second\A3977_stepper_driver.pcb
 Design Title   : 
 Created        : 2012-09-21 17:53:49
-Last Saved     : 2012-12-11 21:21:26
-Editing Time   : 2276 min
-Units          : mm (precision 0)
+Last Saved     : 2012-12-17 07:59:35
+Editing Time   : 3820 min
+Units          : mil (precision 1)
 
 
 Checking integrity of Schematic "C:\Biblioteki\Robothand\robothand1234\projects\A3977_stepper_driver_second\A3977_stepper_driver.sch" with PCB "C:\Biblioteki\Robothand\robothand1234\projects\A3977_stepper_driver_second\A3977_stepper_driver.pcb"
@@ -19,6 +19,17 @@ Ignoring instance H1 ("MOUNT-HOLE2.8") as it has no schematic information.
 Ignoring instance H2 ("MOUNT-HOLE2.8") as it has no schematic information.
 Ignoring instance H3 ("MOUNT-HOLE2.8") as it has no schematic information.
 Ignoring instance H4 ("MOUNT-HOLE2.8") as it has no schematic information.
+
+Value "REF" on component instance "Manufacturer_Part_Number" caused by library item mismatch.
+Value "REF" on component instance "Manufacturer_Name" caused by library item mismatch.
+Value "REF" on component instance "RS Part Number" caused by library item mismatch.
+Value "REF" on component instance "Allied_Number" caused by library item mismatch.
+Add value "Resistance=1K" to component reference "REF".
+Value "PFD" on component instance "Manufacturer_Part_Number" caused by library item mismatch.
+Value "PFD" on component instance "Manufacturer_Name" caused by library item mismatch.
+Value "PFD" on component instance "RS Part Number" caused by library item mismatch.
+Value "PFD" on component instance "Allied_Number" caused by library item mismatch.
+Add value "Resistance=1K" to component reference "PFD".
 
 
 End Of Report.

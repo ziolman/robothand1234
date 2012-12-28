@@ -2,13 +2,13 @@ Design Rule Check Report
 ------------------------
 
 Report File    : C:\Biblioteki\Robothand\robothand1234\projects\A3977_stepper_driver_second\A3977_stepper_driver (PCB - Design Rule Check Report).txt
-Report Written : Thursday, December 13, 2012
+Report Written : Monday, December 24, 2012
 Project Path   : C:\Biblioteki\Robothand\robothand1234\projects\A3977_stepper_driver_second\A3977_stepper_driver.prj
 Design Path    : C:\Biblioteki\Robothand\robothand1234\projects\A3977_stepper_driver_second\A3977_stepper_driver.pcb
 Design Title   : 
 Created        : 2012-09-21 17:53:49
-Last Saved     : 2012-12-13 17:33:20
-Editing Time   : 3808 min
+Last Saved     : 2012-12-24 13:21:19
+Editing Time   : 3842 min
 Units          : mil (precision 1)
 
 

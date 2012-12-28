@@ -2,25 +2,21 @@ Design Rule Check Report
 ------------------------
 
 Report File    : C:\Biblioteki\Robothand\robothand1234\projects\sensor_system_circuit\sensor_system_circuit (PCB - Design Rule Check Report).txt
-Report Written : Tuesday, December 11, 2012
+Report Written : Tuesday, December 25, 2012
 Project Path   : C:\Biblioteki\Robothand\robothand1234\projects\sensor_system_circuit\sensor_system_circuit.prj
 Design Path    : C:\Biblioteki\Robothand\robothand1234\projects\sensor_system_circuit\sensor_system_circuit.pcb
 Design Title   : 
 Created        : 2012-12-10 18:58:26
-Last Saved     : 2012-12-10 23:28:47
-Editing Time   : 270 min
+Last Saved     : 2012-12-25 16:00:30
+Editing Time   : 294 min
 Units          : mil (precision 0)
 
 
 Results
 =======
 
-Gap in Net "5V" between (10200,8425) and (10843,8725) 
-    5V.
-Gap in Net "GND" between (9204,9025) and (10634,9050) 
-    GND.
 
-Number of errors found : 2
+No errors found
 
 
 Settings
